@@ -1,4 +1,4 @@
-#Como usar:
+# Como usar:
 
 1 - Instalar o XAMMP e startar os servidores apache e MySQL.
 
